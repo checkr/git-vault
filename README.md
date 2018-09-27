@@ -1,12 +1,10 @@
-# git-vault
-Easy access to sensitive files
+# VSM
+Vault Secrets Manager for git repositories
 
-`git-vault init`
+`vsm add <file>`
 
-`git-vault add <filename>`
+`vsm pull`
 
-`git-vault remove <filename>`
+`vsm push`
 
-`git-vault pull`
-
-`git-vault push`
+`vsm remove <file>`
